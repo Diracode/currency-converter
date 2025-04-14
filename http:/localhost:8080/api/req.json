@@ -1,0 +1,17 @@
+{
+  "customer": {
+    "userType": "EMPLOYEE",
+    "tenure": 3.0
+  },
+  "product": [
+    {
+      "name": "Pencil",
+      "quantity": 10,
+      "category": "OTHER",
+      "amount": 200.00
+    }
+  ],
+  "targetCurrency": "USD",
+  "originalCurrency": "EUR",
+  "total": 200.00
+}
